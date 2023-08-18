@@ -1,0 +1,1 @@
+window.alert("Welcome to EventHub, Have a Nice time planning and managing your events!")
